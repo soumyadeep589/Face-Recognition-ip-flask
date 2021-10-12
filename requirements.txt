@@ -10,7 +10,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
 numpy==1.18.1
-opencv-python==4.1.0.25
+opencv-python==4.1.1.26
 Pillow==7.0.0
 requests==2.23.0
 urllib3==1.25.9
